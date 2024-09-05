@@ -1,0 +1,10 @@
+.fl{
+    width : 100% ; 
+    display : flex ; 
+    align-items: center ;
+    justify-content: space-between ; 
+}
+
+.gap-2{
+    margin-bottom : 30px ; 
+}

@@ -1,0 +1,11 @@
+.warning-container{
+    width : 40% ; 
+    height : 60px ; 
+    background-color: white ;
+    color : black ; 
+    position : absolute ; 
+    bottom : 0% ; 
+    right : 0% ; 
+    padding : 1rem 2rem ; 
+    font-size : 22px ; 
+}

@@ -1,0 +1,42 @@
+.sign_up_container{
+    width : 40vw ; 
+    height : 70vh ; 
+    background-color: rgba(255, 255, 255, 0.49) ;
+    color : black ; 
+    font-size : 1.2rem ; 
+    display : flex ; 
+    align-items: center ;
+    margin : auto ; 
+
+}
+
+.sign_up_content{
+    width : 80% ; 
+    height : 80% ; 
+    padding : 2rem 2rem ; 
+    border : 2px solid black ; 
+    border-radius: 1.2rem ;
+    margin : auto ; 
+    gap : 20px ; 
+    align-items: center ;
+}
+
+input{
+    width : 70% ; 
+    height : 40px ;
+    border-radius: .5rem ; 
+    background-color: transparent;
+    border : 1px solid black ; 
+    font-size : 1.2rem ; 
+    padding : 0 1.2rem ; 
+}
+
+.sign_up_submit_button , button{
+    width : 80% ; 
+    height : 40px ; 
+    background-color: black ;
+    color : white ; 
+    border : none ; 
+    border-radius : 1.3rem ; 
+    margin : auto ; 
+}
